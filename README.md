@@ -1,4 +1,4 @@
-# convert IP to physical location using python
+# convert IP to physical location using python offline
 
 ### Usage: `python main.py TARGET_IP`
 ___
